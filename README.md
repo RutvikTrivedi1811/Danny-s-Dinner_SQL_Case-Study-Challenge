@@ -1,4 +1,4 @@
-# Danny-s-Dinner_SQL_Case-Study-Challenge
+# Danny's-Dinner_SQL_Case-Study-Challenge
 
 Case Study #1 - Danny's Diner
 
